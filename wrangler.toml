@@ -8,18 +8,18 @@ keep_vars=true
 [[d1_databases]]
 binding = "TEMP_MAIL_DB"
 database_name = "maill_free_db" #你的d1数据库名称
-database_id = "c82663ac-62b6-4ba6-be81-cbe297f2a3dd" # 你的database_id
+database_id = "531a4300-9ea9-4d12-a74d-0ae6e93eb94f" # 你的database_id
 # 登录会话过期时间（单位：天，默认7天）
 # 环境变量
 [vars]
 # FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"example@qq.com"}]"
 ADMIN_NAME=""
-ADMIN_PASSWORD=""
+ADMIN_PASSWORD="linrun2jj"
 GUEST_PASSWORD="guest"
-JWT_TOKEN="fjiwaiv23164s4fdsfs6df6wfdx"
+JWT_TOKEN="fsdfegdgdfdfdf"
 JWT_TOKENGUEST_PASSWORD="dfsfsfxzcv"
 SESSION_EXPIRE_DAYS="365"
-MAIL_DOMAIN=""
+MAIL_DOMAIN="mail2.7r7.cc,mail3.7r7.cc,mail4.7r7.cc,mail5.7r7.cc,mail6.7r7.cc,mail7.7r7.cc,mail8.7r7.cc,mail9.7r7.cc,mail10.7r7.cc,mail11.7r7.cc,mail12.7r7.cc,mail13.7r7.cc,mail14.7r7.cc,mail15.7r7.cc,mail16.7r7.cc,mail17.7r7.cc,mail18.7r7.cc,mail19.7r7.cc,mail20.7r7.cc,mail21.7r7.cc,mail22.7r7.cc,mail23.7r7.cc,mail24.7r7.cc,mail25.7r7.cc,mail26.7r7.cc,mail27.7r7.cc,mail28.7r7.cc,mail29.7r7.cc,mail30.7r7.cc,mail31.7r7.cc,mail32.7r7.cc,mail33.7r7.cc,mail34.7r7.cc,mail35.7r7.cc,mail36.7r7.cc,mail37.7r7.cc,mail38.7r7.cc,mail39.7r7.cc,mail40.7r7.cc,mail41.7r7.cc,mail42.7r7.cc,mail43.7r7.cc,mail44.7r7.cc,mail45.7r7.cc,qmail.1.7r7.cc,mymail.one1.iyesr.com,mymail1.iyesr.com"
 RESEND_API_KEY=""
 
 
